@@ -1,5 +1,7 @@
 Title
+A cool title for my paper.
 Author
+Thats me, Jan.
 Abstract
 Introduction
 Conclusion
